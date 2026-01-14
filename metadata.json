@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI 食刻 - 智慧饮食健康助手",
+  "description": "一款基于AI的健康饮食管理应用，支持食物拍摄识别、热量分析、营养追踪及个人健康管理。通过智慧饮食，享受轻盈生活。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
